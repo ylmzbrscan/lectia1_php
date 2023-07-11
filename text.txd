@@ -1,0 +1,61 @@
+Pentru a face o imagine aveti nevoie de tagul <img src="" alt="" title="">
+
+src = Sursa ( folder )urmat de numele pagini, sau numele imagini
+alt = Identificare imagine in caz ca nu apare
+title = La fel ca alt
+
+li = > lista
+
+a => tag ancora ( exista doua tipuri de link-uri
+a) relativ
+b) absolut
+
+href = "folder/pages/pagina1.html">
+
+mark = marchare ( apare cu galben )
+
+b => bold
+i => italic
+section => sectiune
+header => header
+article => articol
+br => treci pe linie noua
+p => paragraf
+heading sau h1 pana la h6 => de la cel mai mare find h1 pana la h6 ( cel mai mic)
+
+   Pentru a reveni la o pagina index din afara folderului pagini, trebuie sa utilizam / ( slash )
+
+    urmat de ../( slash ) pentru a iesi din pagina
+
+footer => incheiere sau sub sol urmat de un simbol specific si anume &copy; text
+
+
+Tema:
+
+De continuat pagina 2, pagina 3 si pagina 4 ( adaugand cod HTML dupa bunul plac)
+
+trebuie sa adaugati header, navigatie, sectiune 1, 2 sau cate vreti, si un subsol footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
